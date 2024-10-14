@@ -1,0 +1,14 @@
+.contenido {
+  display: flex;
+  background-color: orange;
+  padding: 25px;
+}
+
+.uno {
+  background-color: green;
+  padding: 25px;
+}
+.dos {
+  background-color: yellow;
+  padding: 25px;
+}
