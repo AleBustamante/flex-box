@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
 .contenido {
   display: flex;
   background-color: orange;
